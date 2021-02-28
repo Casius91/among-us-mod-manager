@@ -1,29 +1,29 @@
 [
   {
-    "id": "extra-roles",
-    "title": "Extra Roles",
-    "author": "NotHunter101",
-    "downloadURL": "https://github.com/NotHunter101/ExtraRolesAmongUs/releases/download/v1.3.1/Role.Mod.v.1.3.1.zip",
-    "version": "1.3.1",
-    "projectURL": "https://github.com/NotHunter101/ExtraRolesAmongUs",
+    "id": "multi-modes",
+    "title": "Multi Modes",
+    "author": "Casius",
+    "downloadURL": "https://docs.google.com/uc?export=download&id=1PwnFuDJ_4b_5cpn5T9Sj9XUVbBCTNT9X",
+    "version": "2.0.0",
+    "projectURL": "https://github.com/Casius91/deLock",
     "minManagerVersion": "1.0.0"
   },
   {
-    "id": "sheriff",
-    "title": "Sheriff",
-    "author": "Woodi-dev",
-    "downloadURL": "https://github.com/Woodi-dev/Among-Us-Sheriff-Mod/releases/download/v1.1/Among.Us.Sheriff.Mod.1.1.zip",
-    "version": "1.1",
-    "projectURL": "https://github.com/Woodi-dev/Among-Us-Sheriff-Mod",
+    "id": "crowded",
+    "title": "Crowded",
+    "author": "Casius",
+    "downloadURL": "https://docs.google.com/uc?export=download&id=1WVpj1tyx8aQ3IHoKKcxX3iBxTpr_RxOo",
+    "version": "1.0.0",
+    "projectURL": "https://github.com/Casius91/deLock",
     "minManagerVersion": "1.0.0"
   },
   {
     "id": "love-couple",
     "title": "Love Couple",
-    "author": "Woodi-dev",
-    "downloadURL": "https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.2_2020.12.9s/Among.Us.Love.Couple.Mod.1.2.zip",
-    "version": "1.2",
-    "projectURL": "https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod",
+    "author": "Casius",
+    "downloadURL": "https://docs.google.com/uc?export=download&id=1vFjGmex8NUkH7x5agLWcD_q38MjoyeZd",
+    "version": "1.0.0",
+    "projectURL": "https://github.com/Casius91/deLock",
     "minManagerVersion": "1.0.0"
   }
 ]
