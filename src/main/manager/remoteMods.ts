@@ -1,7 +1,7 @@
 import got from "got"
 import { app, dialog } from "electron"
 
-const MODS_URL = "https://raw.githubusercontent.com/moritzruth/among-us-mod-manager/main/resources/mods.json"
+const MODS_URL = "https://raw.githubusercontent.com/Casius91/among-us-mod-manager/main/resources/mods.json"
 
 export interface RemoteMod {
   id: string
